@@ -16,3 +16,8 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging ties together branch histories through a single commit, maintaining the repository's full history.
 Rebasing moves a branch's commits to the tip of another branch, creating a more linear history.
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to learn more about different machine learning algorithms, and apply them to datasets I'm interested in to look for trends. Also, I want to learn scikit-learn and do projects in it. I already have experience with pandas, but I'm
+looking forward to working more with it and improving those skills as well.
