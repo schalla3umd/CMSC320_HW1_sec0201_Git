@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in the finance sector to detect fraud. Models are trained on past data to identify fraudulent transactions,
+which are used to help protect users in real-world scenarios. Data that is used can include transaction amount, location, frequency, etc.
+
